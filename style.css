@@ -1,0 +1,8 @@
+.Photo{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+.Text_area{
+    width: 300px;
+}
